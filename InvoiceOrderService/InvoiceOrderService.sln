@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentGrpc", "PaymentGrpc\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOrderRepository", "InvoiceOrderRepository\InvoiceOrderRepository.csproj", "{A5CA41A2-FC5D-4610-BA59-C8A448EAD383}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOrderEntity", "InvoiceOrderEntity\InvoiceOrderEntity.csproj", "{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{A5CA41A2-FC5D-4610-BA59-C8A448EAD383}.Release|x64.Build.0 = Release|Any CPU
 		{A5CA41A2-FC5D-4610-BA59-C8A448EAD383}.Release|x86.ActiveCfg = Release|Any CPU
 		{A5CA41A2-FC5D-4610-BA59-C8A448EAD383}.Release|x86.Build.0 = Release|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Debug|x64.Build.0 = Debug|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Debug|x86.Build.0 = Debug|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Release|x64.ActiveCfg = Release|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Release|x64.Build.0 = Release|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A7EB5FB-7875-403A-A5B4-1B7D35D4CC4A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
